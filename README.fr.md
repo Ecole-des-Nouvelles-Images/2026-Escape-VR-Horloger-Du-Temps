@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/blob/main/README.md">
+  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/blob/main/README.md">
     <img width="64" height="64" alt="flag_angleterre" src="https://github.com/user-attachments/assets/79223af9-d6d8-48a1-aa17-7355c3c6b444" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/blob/main/README.es.md">
+  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/blob/main/README.es.md">
     <img width="64" height="64" alt="flag_espagne" src="https://github.com/user-attachments/assets/22639270-f31b-4416-9445-73230a53ec00" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/blob/main/README.fr.md">
+  <a href="https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/blob/main/README.fr.md">
     <img width="64" height="64" alt="flag_france" src="https://github.com/user-attachments/assets/b98ca283-5441-4f57-a475-8cbf1f843485" />
   </a>
 </div>
@@ -18,9 +18,9 @@
 
 ![IllustrationLoadingScreen](https://github.com/user-attachments/assets/f688900f-af0a-4d44-9c98-7bf49eb5fc59)
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3.47-blue?style=flat&logo=unity)](https://unity.com/)
-[![GitHub Release](https://img.shields.io/github/release/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/releases)
-[![License](https://img.shields.io/github/license/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/blob/main/LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo?color=lightgrey)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo)
+[![GitHub Release](https://img.shields.io/github/release/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/releases)
+[![License](https://img.shields.io/github/license/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/blob/main/LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps?color=lightgrey)](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps)
 
 **L'Horloger du Temps** est un jeu de réflexion en VR (réalité virtuelle). Un horloger a transformé son atelier en un **coffre-fort temporel** avant de **disparaître**. En tant que son **apprenti**, vous devrez découvrir le **secret** derrière sa disparition.
 
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/c16c3b11-6b20-427c-b284-727f088ed916
   <h1 id="sortie">Sortie</h1>
 </div>
 
-L'APK du jeu est disponible et voici le lien pour le **[télécharger](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/releases)**.
+L'APK du jeu est disponible et voici le lien pour le **[télécharger](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/releases)**.
 
 ---
 <div align="center">
@@ -96,7 +96,7 @@ L'APK du jeu est disponible et voici le lien pour le **[télécharger](https://g
 
 Ce projet est actuellement **en cours de développement**.  
 
-Si vous rencontrez des bugs ou avez des suggestions, n'hésitez pas à ouvrir un **[ticket d'issue](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Hugo/issues/new)**.
+Si vous rencontrez des bugs ou avez des suggestions, n'hésitez pas à ouvrir un **[ticket d'issue](https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Horloger-Du-Temps/issues/new)**.
 
 ---
 <div align="center">
